@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterCompositesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-composites@esm/index.mjs';
+import iterCompositesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-composites@v0.1.0-esm/index.mjs';
 ```
 
 #### iterCompositesSeq( \[options] )
@@ -139,7 +139,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterCompositesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-composites@esm/index.mjs';
+import iterCompositesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-composites@v0.1.0-esm/index.mjs';
 
 // Create an iterator:
 var opts = {
