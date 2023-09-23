@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterCompositesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-composites@deno/mod.js';
+import iterCompositesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-composites@v0.1.0-deno/mod.js';
 ```
 
 #### iterCompositesSeq( \[options] )
@@ -134,7 +134,7 @@ var bool = it.next().done;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import iterCompositesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-composites@deno/mod.js';
+import iterCompositesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-composites@v0.1.0-deno/mod.js';
 
 // Create an iterator:
 var opts = {
