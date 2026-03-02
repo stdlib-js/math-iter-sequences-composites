@@ -4,7 +4,7 @@
 
 <section class="release" id="v0.2.3">
 
-## 0.2.3 (2026-02-07)
+## 0.2.3 (2026-02-08)
 
 <section class="commits">
 
